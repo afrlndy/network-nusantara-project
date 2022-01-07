@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:04:27.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="a__uOrwkbc2NprZnKKNa" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:11:05.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LKboynSmXluEzYdJmAY-" version="14.8.0" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
     <mxGraphModel dx="4120" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -529,6 +529,18 @@
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-165" value="PC TU Kekepegawaian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2157.5" y="200" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-166" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="43.99999999999999" width="86.69" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-167" value="Modem 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-1356.6599999999999" y="30.599999999999994" width="83.35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-168" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="43.99999999999999" width="86.69" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-169" value="Modem 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-1188.95" y="30.599999999999994" width="83.35" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
