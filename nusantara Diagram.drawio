@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:02:11.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GqjyNnwJGRPU9RuYC3jj" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:04:27.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="a__uOrwkbc2NprZnKKNa" version="14.8.0" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="3088" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4120" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
           <mxGeometry x="325" y="-10" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-75" value="CCR Mikrotik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="-90" width="120" height="20" as="geometry" />
+          <mxGeometry x="1980" y="-89" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-76" value="TU SMP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2110" y="-130" width="90" height="20" as="geometry" />
@@ -322,8 +322,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1650" y="150" />
-              <mxPoint x="1650" y="280" />
-              <mxPoint x="1574" y="280" />
+              <mxPoint x="1650" y="320" />
+              <mxPoint x="1574" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -331,7 +331,7 @@
           <mxGeometry x="1550" y="109.5" width="74.4" height="51" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-94" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1534.4" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="1534.4" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-95" target="NsdHCGjpmlzPTO6aymvT-120">
           <mxGeometry relative="1" as="geometry">
@@ -392,10 +392,10 @@
           <mxGeometry x="1740" y="280" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-118" value="AP Lab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1524.4" y="370" width="90" height="20" as="geometry" />
+          <mxGeometry x="1524.4" y="440" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-119" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="260" width="90" height="20" as="geometry" />
+          <mxGeometry x="1542.2" y="276.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-120" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
           <mxGeometry x="1340" y="115.5" width="74.4" height="51" as="geometry" />
@@ -506,6 +506,29 @@
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-159" value="Modem 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="181.05" y="-61" width="83.35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.181;entryY=0.912;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-160" target="NsdHCGjpmlzPTO6aymvT-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1967" y="20" />
+              <mxPoint x="1967" y="39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-160" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="-1.0000000000000029" width="86.69" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-161" value="Modem 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1883.3400000000001" y="-14.400000000000002" width="83.35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-163" value="PC TU Keuangan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2175" y="406" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-164" value="PC TU Kesiswaan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2175" y="301" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-165" value="PC TU Kekepegawaian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2157.5" y="200" width="185" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
