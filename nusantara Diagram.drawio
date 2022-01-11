@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:04:24.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2nzZSfjlocSaDrWu3GZG" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:07:13.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-oAs1l-Wht-yXo00zB_m" version="14.8.0" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="5241" dy="3840" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3896" dy="3020" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -736,56 +736,45 @@
           <mxGeometry y="88" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-88" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="928" y="40" width="552" height="408" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-92" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
-          <mxGeometry x="1252" y="207.5" width="74.4" height="51" as="geometry" />
+          <mxGeometry x="928" y="64" width="560" height="408" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-94" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1236.4" y="448" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-92" target="NsdHCGjpmlzPTO6aymvT-94">
-          <mxGeometry x="1032" y="88" as="geometry">
-            <Array as="points">
-              <mxPoint x="1352" y="248" />
-              <mxPoint x="1352" y="418" />
-              <mxPoint x="1276" y="418" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1236.4" y="472" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-95" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="1226.4" y="293" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-92" target="NsdHCGjpmlzPTO6aymvT-95">
-          <mxGeometry x="1032" y="88" as="geometry" />
+          <mxGeometry x="1226.4" y="317" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-118" value="AP Lab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1226.4" y="538" width="90" height="20" as="geometry" />
+          <mxGeometry x="1226.4" y="562" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-119" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1244.1999999999998" y="374.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="1244.1999999999998" y="398.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-120" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
-          <mxGeometry x="1042" y="213.5" width="74.4" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-95" target="NsdHCGjpmlzPTO6aymvT-120">
-          <mxGeometry x="1032" y="88" as="geometry">
-            <Array as="points">
-              <mxPoint x="1242" y="258" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1042" y="237.5" width="74.4" height="51" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-122" value="switch manageable local lab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1042" y="284" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-123" value="switch lab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1244.1999999999998" y="174.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="1042" y="308" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-141" value="LAB SMP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1042" y="98" width="100" height="20" as="geometry" />
+          <mxGeometry x="935.4" y="71" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-389" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="936" y="48" width="552" height="408" as="geometry" />
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-391" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1170.9999999999998" y="91" width="90" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-92" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-391">
+          <mxGeometry x="7.800000000000182" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-123" value="&lt;font style=&quot;font-size: 19px&quot;&gt;switch lab&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-391">
+          <mxGeometry y="59.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-77" target="NsdHCGjpmlzPTO6aymvT-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1496" y="-817" />
+              <mxPoint x="1496" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
