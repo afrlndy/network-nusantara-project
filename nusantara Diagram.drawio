@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:43:04.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RTQ_lDWVFl5kNKk-K93X" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:44:10.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="h1qro5z0zwBARIFJx9UB" version="14.8.0" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="3492" dy="2774" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4120" dy="3157" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,16 +588,10 @@
           <mxGeometry x="1406" y="-679" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-109" value="switch local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="-856" width="90" height="20" as="geometry" />
+          <mxGeometry x="1051" y="-856" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-114" value="AP TU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1416" y="-710" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-135" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="953.8000000000002" y="-1114.6" width="44.87" height="34.6" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-136" value="converter FO (B)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="973.8000000000002" y="-1118" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-163" value="PC TU Keuangan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1241" y="-594" width="150" height="20" as="geometry" />
@@ -635,14 +629,23 @@
         <mxCell id="NsdHCGjpmlzPTO6aymvT-110" value="switch AP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-262">
           <mxGeometry y="61" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-263" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="946" y="-1014.4" width="86.69000000000005" height="54.39999999999998" as="geometry" />
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-265" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="953.8" y="-1024.4" width="97.55000000000018" height="54.80000000000007" as="geometry" />
         </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-160" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-263">
-          <mxGeometry y="13.399999999999977" width="86.69" height="41" as="geometry" />
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-160" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-265">
+          <mxGeometry y="13.800000000000068" width="86.69" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-161" value="Modem 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-263">
-          <mxGeometry x="3.3400000000001455" width="83.35" height="10" as="geometry" />
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-161" value="Modem 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-265">
+          <mxGeometry x="14.20000000000016" width="83.35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-267" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="926.2300000000001" y="-1141" width="99.99999999999989" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-135" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-267">
+          <mxGeometry x="27.57000000000005" y="26.40000000000009" width="44.87" height="34.6" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-136" value="converter FO (B)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-267">
+          <mxGeometry width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
