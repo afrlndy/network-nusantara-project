@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:30:32.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MpJKZfq4l5J87Ke84h8e" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:32:56.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7sdVKYGEyqvQNHtOKgCj" version="14.8.0" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="3335" dy="2678" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5241" dy="3840" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-96" y="-1200" width="1206" height="2152" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-365" width="536" height="565" as="geometry" />
+          <mxGeometry x="80" y="-365" width="536" height="645" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="80" y="-1140" width="530" height="732" as="geometry" />
@@ -581,15 +581,6 @@
         <mxCell id="NsdHCGjpmlzPTO6aymvT-62" value="R.Guru" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-213">
           <mxGeometry y="10" width="156" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-214" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310.2" y="-22.000000000000007" width="90.00000000000006" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-56" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-214">
-          <mxGeometry y="51" width="74.4" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-58" value="switch manageable local lab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-214">
-          <mxGeometry x="5.684341886080802e-14" width="90" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontStyle=4" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-48" target="NsdHCGjpmlzPTO6aymvT-225">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="282" y="-191" as="targetPoint" />
@@ -650,6 +641,40 @@
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-54" value="pc dapodik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-234">
           <mxGeometry x="10.000000000000057" y="84.7" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-225" target="NsdHCGjpmlzPTO6aymvT-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272" y="-149" />
+              <mxPoint x="272" y="-16" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-237" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="307.80000000000007" y="-31.000000000000007" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-56" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-237">
+          <mxGeometry x="2.3999999999999204" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-58" value="switch manageable local lab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-237">
+          <mxGeometry y="75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-241" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="136" width="142" height="104.69999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-239" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-241">
+          <mxGeometry x="24" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-240" value="pc client 32 unit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-241">
+          <mxGeometry y="84.69999999999999" width="142" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-56" target="NsdHCGjpmlzPTO6aymvT-239">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="-5" />
+              <mxPoint x="440" y="171" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
