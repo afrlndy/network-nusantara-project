@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:44:10.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="h1qro5z0zwBARIFJx9UB" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:46:12.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8uKDknqVeOFs4mzdQufS" version="14.8.0" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
     <mxGraphModel dx="4120" dy="3157" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -570,40 +570,10 @@
           <mxGeometry x="904" y="-1192" width="624" height="1896" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-76" value="TU SMP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1176" y="-1130" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-77" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
-          <mxGeometry x="1058.8000000000002" y="-915" width="74.4" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-80" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="1256" y="-670" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-81" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="1256" y="-774.5" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-82" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="1256" y="-875" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-83" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1406" y="-679" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-109" value="switch local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="-856" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-114" value="AP TU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1416" y="-710" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-163" value="PC TU Keuangan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="-594" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-164" value="PC TU Kesiswaan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="-699" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NsdHCGjpmlzPTO6aymvT-165" value="PC TU Kekepegawaian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1223.5" y="-800" width="185" height="20" as="geometry" />
+          <mxGeometry x="923.2" y="-1184" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-260" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1064" y="-1080" width="120" height="139" as="geometry" />
+          <mxGeometry x="1144" y="-1024" width="120" height="139" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-69" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-260">
           <mxGeometry y="19" width="120" height="120" as="geometry" />
@@ -612,7 +582,7 @@
           <mxGeometry width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-261" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1321" y="-1121" width="90" height="106.59999999999991" as="geometry" />
+          <mxGeometry x="1024" y="-696" width="90" height="106.59999999999991" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-79" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-261">
           <mxGeometry x="5" width="80" height="80" as="geometry" />
@@ -621,7 +591,7 @@
           <mxGeometry y="86.59999999999991" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-262" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1191" y="-1041" width="90" height="81" as="geometry" />
+          <mxGeometry x="1064" y="-842.4" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-78" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-262">
           <mxGeometry x="5" width="74.4" height="51" as="geometry" />
@@ -630,7 +600,7 @@
           <mxGeometry y="61" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-265" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="953.8" y="-1024.4" width="97.55000000000018" height="54.80000000000007" as="geometry" />
+          <mxGeometry x="1226" y="-1112" width="97.55000000000018" height="54.80000000000007" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-160" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-265">
           <mxGeometry y="13.800000000000068" width="86.69" height="41" as="geometry" />
@@ -639,13 +609,58 @@
           <mxGeometry x="14.20000000000016" width="83.35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-267" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="926.2300000000001" y="-1141" width="99.99999999999989" height="61" as="geometry" />
+          <mxGeometry x="1101.0000000000002" y="-1120" width="99.99999999999989" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-135" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-267">
           <mxGeometry x="27.57000000000005" y="26.40000000000009" width="44.87" height="34.6" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-136" value="converter FO (B)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-267">
           <mxGeometry width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-269" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1231" y="-842.4" width="90" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-77" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-269">
+          <mxGeometry x="7.800000000000182" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-109" value="switch local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-269">
+          <mxGeometry y="59" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-270" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1240" y="-688" width="185" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-82" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-270">
+          <mxGeometry x="32.5" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-165" value="PC TU Kekepegawaian" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-270">
+          <mxGeometry y="75" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-271" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1257.5" y="-587.5" width="150" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-81" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-271">
+          <mxGeometry x="15" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-164" value="PC TU Kesiswaan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-271">
+          <mxGeometry y="75.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-272" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1257.5" y="-483" width="150" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-80" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-272">
+          <mxGeometry x="15" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-163" value="PC TU Keuangan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-272">
+          <mxGeometry y="76" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-273" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1024" y="-519" width="90" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-83" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-273">
+          <mxGeometry x="5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdHCGjpmlzPTO6aymvT-114" value="AP TU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="NsdHCGjpmlzPTO6aymvT-273">
+          <mxGeometry y="91" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
