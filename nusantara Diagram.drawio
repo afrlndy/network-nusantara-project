@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:01:33.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6XzP-5EWfFVrNtU-DRat" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:06:04.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YpHoASbiyHIwHnf1yowq" version="16.2.4" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="2454" dy="2659" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="2528" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1047,34 +1047,74 @@
           <mxGeometry y="62" width="168" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-664" y="1000" width="81.48" height="88" as="geometry" />
+          <mxGeometry x="-648" y="1034" width="96" height="88" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-60" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-59">
+          <mxGeometry x="8" width="81.48" height="57.03703703703703" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-61" value="PC Server BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-59">
+          <mxGeometry x="8.15" y="71.7" width="87.85" height="16.3" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-976" y="992" width="67.2" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-67" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-66">
+          <mxGeometry x="6.000000000000001" width="48.00000000000001" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-68" value="AP BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-66">
+          <mxGeometry x="-3.6000000000000005" y="55.199999999999996" width="67.2" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-968" y="1064" width="112" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-70" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-69">
+          <mxGeometry x="6.000000000000001" width="48.00000000000001" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-71" value="AP BMT Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-69">
+          <mxGeometry x="-24" y="55.2" width="115.6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-838.72" y="1032" width="81.48000000000002" height="96.29999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-65" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-73">
           <mxGeometry width="81.48" height="57.03703703703703" as="geometry" />
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-61" value="PC TU Dapodik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-59">
-          <mxGeometry x="8.148" y="71.7037037037037" width="73.33200000000001" height="16.296296296296298" as="geometry" />
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-72" value="PC 2 BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-73">
+          <mxGeometry x="8.148000000000025" y="80.00370370370365" width="73.33200000000001" height="16.296296296296298" as="geometry" />
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-752" y="1000" width="81.48" height="88" as="geometry" />
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-736" y="1032" width="81.48000000000002" height="96.29999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-62" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-74">
+          <mxGeometry width="81.48" height="88" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-63" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-62">
           <mxGeometry width="81.48" height="57.03703703703703" as="geometry" />
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-64" value="PC TU Dapodik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-62">
-          <mxGeometry x="8.148" y="71.7037037037037" width="73.33200000000001" height="16.296296296296298" as="geometry" />
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-64" value="PC 1 BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-74">
+          <mxGeometry x="8.148000000000025" y="80.00370370370365" width="73.33200000000001" height="16.296296296296298" as="geometry" />
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-65" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="-838.72" y="1000" width="81.48" height="57.03703703703703" as="geometry" />
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-57" target="TfYJ0-428qkh0BfMC_CW-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-556" y="1026" />
+              <mxPoint x="-599" y="1026" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-976" y="992" width="74.67" height="80" as="geometry" />
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-57" target="TfYJ0-428qkh0BfMC_CW-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-688" y="1016" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-67" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-66">
-          <mxGeometry x="6.666964285714286" width="53.33571428571429" height="53.33333333333333" as="geometry" />
-        </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-68" value="AP R.Meeting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-66">
-          <mxGeometry x="-4.000178571428572" y="61.33333333333333" width="74.67" height="13.333333333333332" as="geometry" />
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-57" target="TfYJ0-428qkh0BfMC_CW-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-792" y="1008" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
