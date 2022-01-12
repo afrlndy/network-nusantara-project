@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T08:31:15.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SWqj_44YZ24Nyfu47x9u" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T08:32:57.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vfk-A-QFUpN65laY8d7I" version="16.2.4" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="4391" dy="3840" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3046" dy="3020" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -870,6 +870,23 @@
             <Array as="points">
               <mxPoint x="96" y="-796" />
               <mxPoint x="96" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-912" y="-712" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-12">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-14" value="AP TU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-12">
+          <mxGeometry y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NsdHCGjpmlzPTO6aymvT-427" target="TfYJ0-428qkh0BfMC_CW-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-812" y="-808" />
+              <mxPoint x="-812" y="-672" />
             </Array>
           </mxGeometry>
         </mxCell>
