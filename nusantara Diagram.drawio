@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:38:34.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9QtFzRI0SBSRCE3iphef" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:53:30.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="D76A1OGEyMlrVnl3f8Zk" version="16.2.4" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="6410" dy="4785" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3793" dy="3476" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1236,6 +1236,150 @@
               <mxPoint x="-168" y="1402" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-123" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="-943" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-123">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-114" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-123">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-115" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-114">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-116" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-114">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-117" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-123">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-124" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="-756" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-125" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-124">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-126" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-124">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-127" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-126">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-128" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-126">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-129" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-124">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-130" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="-569" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-131" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-130">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-132" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-130">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-133" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-132">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-134" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-132">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-135" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-130">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-136" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="-383" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-137" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-136">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-138" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-136">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-139" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-138">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-140" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-138">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-141" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-136">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-142" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="-199" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-143" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-142">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-144" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-142">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-145" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-144">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-146" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-144">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-147" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-142">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-148" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="-12" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-149" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-148">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-150" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-148">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-151" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-150">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-152" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-150">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-153" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-148">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-154" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="172" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-155" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-154">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-156" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-154">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-157" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-156">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-158" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-156">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-159" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-154">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-160" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1392" y="358" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-161" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-160">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-162" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-160">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-163" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-162">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-164" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-162">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-165" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-160">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
