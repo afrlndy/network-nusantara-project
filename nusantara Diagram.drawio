@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T07:50:52.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XQ7IDl3B-HFFmZIVpLcY" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T07:52:05.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Enov6hdvyww0EuYbylm9" version="16.2.4" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="3896" dy="3020" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="3447" dy="2747" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -796,10 +796,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-426" value="" style="group;fontColor=#1D3557;" parent="TfYJ0-428qkh0BfMC_CW-303" vertex="1" connectable="0">
-          <mxGeometry x="80.00000000000011" y="336" width="94.07" height="73" as="geometry" />
+          <mxGeometry x="80.00000000000011" y="336" width="105.74" height="73" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-427" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="NsdHCGjpmlzPTO6aymvT-426" vertex="1">
-          <mxGeometry x="8" y="-8" width="86.07" height="59" as="geometry" />
+          <mxGeometry x="8" y="-16" width="97.74" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-428" value="Switch AP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#1D3557;" parent="NsdHCGjpmlzPTO6aymvT-426" vertex="1">
           <mxGeometry y="53" width="90" height="20" as="geometry" />
@@ -1239,7 +1239,7 @@
           <mxGeometry width="168" height="82" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-84" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-83">
-          <mxGeometry x="40" width="74.4" height="51" as="geometry" />
+          <mxGeometry x="32" y="-10" width="94.07" height="64.48" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-85" value="Switch Manageable Unifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#1D3557;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-83">
           <mxGeometry y="62" width="168" height="20" as="geometry" />
@@ -1251,10 +1251,10 @@
           <mxGeometry width="168" height="82" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-89" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-88">
-          <mxGeometry x="40" width="74.4" height="51" as="geometry" />
+          <mxGeometry x="24" y="-16" width="97.74" height="67" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-90" value="Switch Local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#1D3557;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-88">
-          <mxGeometry y="62" width="168" height="20" as="geometry" />
+          <mxGeometry y="56" width="168" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-123" value="" style="group;fontColor=#1D3557;" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-304">
           <mxGeometry x="24" y="241" width="536" height="168" as="geometry" />
