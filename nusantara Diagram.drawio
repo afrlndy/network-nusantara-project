@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T04:29:21.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="C4NduuYaCF0fgXVkIpxw" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T04:37:12.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_tpvjxN6p43IQUiV8d0A" version="16.2.4" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="4840" dy="4113" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3447" dy="2747" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1674,7 +1674,7 @@
             <mxPoint x="-1160" y="1230" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1408" y="1216" />
-              <mxPoint x="-1408" y="578" />
+              <mxPoint x="-1408" y="568" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1693,6 +1693,82 @@
               <mxPoint x="-832" y="1219" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-279" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1976" y="-944" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-280" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-279">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-281" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-279">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-282" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-281">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-283" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-281">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-284" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-279">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-285" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1976" y="-757" width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-286" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-285">
+          <mxGeometry width="536" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-287" value="" style="group" vertex="1" connectable="0" parent="TfYJ0-428qkh0BfMC_CW-285">
+          <mxGeometry x="232" y="8" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-288" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-287">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-289" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-287">
+          <mxGeometry x="-6" y="92" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-290" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="TfYJ0-428qkh0BfMC_CW-285">
+          <mxGeometry x="24" y="8" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-84" target="TfYJ0-428qkh0BfMC_CW-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1176" y="-1075" />
+              <mxPoint x="-1176" y="-1008" />
+              <mxPoint x="-1408" y="-1008" />
+              <mxPoint x="-1408" y="-880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-84" target="TfYJ0-428qkh0BfMC_CW-288">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1168" y="-1064" />
+              <mxPoint x="-1168" y="-1000" />
+              <mxPoint x="-1400" y="-1000" />
+              <mxPoint x="-1400" y="-709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-293" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="-1976" y="-1185" width="536" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-294" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="-1944" y="-1112" width="82" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-89" target="TfYJ0-428qkh0BfMC_CW-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1264" y="-1152" />
+              <mxPoint x="-1903" y="-1152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-296" value="CCR Mikrotik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-1960" y="-1024" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-300" value="LAB TKJ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-1971" y="-1180" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
