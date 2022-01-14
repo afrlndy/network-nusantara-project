@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T04:37:12.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_tpvjxN6p43IQUiV8d0A" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T04:38:10.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="aPj9HJRAQUjC2gurPKLQ" version="16.2.4" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="3447" dy="2747" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4643" dy="3476" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1443,9 +1443,6 @@
         <mxCell id="TfYJ0-428qkh0BfMC_CW-206" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="638" width="56.43" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-207" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="-1304" y="638" width="56.43" height="39.5" as="geometry" />
-        </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-212" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1172.1644444444444" y="558" width="69.03999999999996" height="56" as="geometry" />
         </mxCell>
@@ -1561,8 +1558,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-210" target="TfYJ0-428qkh0BfMC_CW-207">
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-210">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1275.7849999999999" y="640.7649999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1276" y="582" />
             </Array>
@@ -1754,18 +1752,18 @@
           <mxGeometry x="-1976" y="-1185" width="536" height="224" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-294" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="-1944" y="-1112" width="82" height="82" as="geometry" />
+          <mxGeometry x="-1784" y="-1128" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="TfYJ0-428qkh0BfMC_CW-89" target="TfYJ0-428qkh0BfMC_CW-294">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1264" y="-1152" />
-              <mxPoint x="-1903" y="-1152" />
+              <mxPoint x="-1724" y="-1152" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TfYJ0-428qkh0BfMC_CW-296" value="CCR Mikrotik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-1960" y="-1024" width="120" height="20" as="geometry" />
+        <mxCell id="TfYJ0-428qkh0BfMC_CW-296" value="Mikrotik RB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-1784" y="-1000" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TfYJ0-428qkh0BfMC_CW-300" value="LAB TKJ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-1971" y="-1180" width="90" height="20" as="geometry" />
