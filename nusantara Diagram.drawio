@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T09:24:41.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="G2cK6OicEsTJyozRhqxy" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T09:24:57.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ybTXwzLbJnMB35hJ7M51" version="16.6.2" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
     <mxGraphModel dx="6540" dy="4113" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -411,7 +411,7 @@
           <mxGeometry x="802.9143295218307" y="798.1207253571429" width="235.41223492723498" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-8" value="" style="fontColor=#1D3557;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;gradientDirection=north;strokeWidth=3;shape=mxgraph.networks.pc;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="852.9808752598763" y="-748.1393142857142" width="165.78326403326406" height="116.04825000000001" as="geometry" />
+          <mxGeometry x="510.31087525987624" y="-737.1993142857142" width="165.78326403326406" height="116.04825000000001" as="geometry" />
         </mxCell>
         <mxCell id="NsdHCGjpmlzPTO6aymvT-26" value="PC TU keuangan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="886.1375280665291" y="-598.9344214285713" width="149.20493762993766" height="33.156642857142856" as="geometry" />
