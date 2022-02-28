@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T03:09:09.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="60mhzSr9GAs1JGfhs8FW" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T03:10:11.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="I7yYToGMaUuKyYkEVydj" version="16.1.0" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="5135" dy="3482" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="4328" dy="3081" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,10 +548,10 @@
         <mxCell id="FUbrahP81w-io_km4hip-196" value="R.Meeting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="7861.402525987526" y="568.0028857142859" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-197" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="FUbrahP81w-io_km4hip-197" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="7912.7925259875265" y="861.2639999999999" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-198" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="FUbrahP81w-io_km4hip-198" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="7912.7925259875265" y="1179.5677714285707" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-199" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
@@ -674,14 +674,14 @@
         <mxCell id="FUbrahP81w-io_km4hip-244" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="8274.200041580043" y="861.2639999999999" width="132.62661122661123" height="132.62657142857142" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-245" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8247.67471933472" y="1013.7845571428575" width="185.67725571725572" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-245" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="8151.67" y="1007.5" width="344.33" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-246" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8275.857874220375" y="1184.5412678571424" width="132.62661122661123" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="8208" y="1152" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-247" value="AP Unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8249.332551975052" y="1337.0618250000002" width="185.67725571725572" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-247" value="AP Unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="8423.84" y="1264" width="238.67" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-248" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="8602.450904365905" y="1511.1342" width="135.42827286418623" height="92.83857608513196" as="geometry" />
