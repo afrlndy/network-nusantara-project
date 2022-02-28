@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T11:02:25.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Xr2xE1hJAf-KYvPClK-F" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T11:18:42.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="F-7tFtVz7E8PtDPnu4S4" version="16.6.4" type="github">
   <diagram id="cqtTLqStkhQXooxpLTyE" name="Page-1">
-    <mxGraphModel dx="4738" dy="3372" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="4130" dy="3047" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FUbrahP81w-io_km4hip-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6429.03" y="-1713" width="1034.49" height="3337" as="geometry" />
+          <mxGeometry x="6768" y="-1633.42" width="944" height="3337" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="10328" y="-1628.41" width="1047.75" height="2724.41" as="geometry" />
@@ -258,7 +258,7 @@
           <mxGeometry x="9603.249158004159" y="-1343.2974178571428" width="198.9399168399169" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-82" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Fiber Optik&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;rotation=0;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="9471.996743451145" y="-1713" width="265.2532224532225" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="9453.906743451145" y="-1720" width="265.2532224532225" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-84" target="FUbrahP81w-io_km4hip-149" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -441,482 +441,484 @@
           <mxGeometry x="9349.995471933473" y="1026.376378571429" width="159.1519334719335" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-166" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7753.64" y="-1699.73" width="1127.33" height="3451.73" as="geometry" />
+          <mxGeometry x="7888" y="-1633.42" width="1127.33" height="3451.73" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-167" value="Gd. SMK 1st Floor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7768.219999999999" y="-1673.2099999999998" width="465.1" height="33.16" as="geometry" />
+          <mxGeometry x="7902.579999999999" y="-1606.8999999999999" width="465.1" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-168" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="-624" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="-557.69" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-169" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="-1606.9" width="1088" height="966.9" as="geometry" />
+          <mxGeometry x="7902.36" y="-1540.5900000000001" width="1088" height="966.9" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-170" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8112" y="-1398.01" width="269.43" height="269.43" as="geometry" />
+          <mxGeometry x="8246.36" y="-1331.7" width="269.43" height="269.43" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-171" value="TU SMK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7821.61" y="-1599.21" width="210.39" height="33.16" as="geometry" />
+          <mxGeometry x="7955.969999999999" y="-1532.9" width="210.39" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-173" target="FUbrahP81w-io_km4hip-170" edge="1">
-          <mxGeometry x="7814.449893762994" y="-1596.949092857143" as="geometry">
+          <mxGeometry x="7948.809893762994" y="-1530.639092857143" as="geometry">
             <Array as="points">
-              <mxPoint x="8185.804405197506" y="-1325.0646214285714" />
-              <mxPoint x="8185.804405197506" y="-1325.0646214285714" />
+              <mxPoint x="8320.164405197505" y="-1258.7546214285715" />
+              <mxPoint x="8320.164405197505" y="-1258.7546214285715" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-173" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#A8DADC;strokeColor=#457B9D;strokeWidth=3;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=30;fontColor=#1D3557;container=0;" parent="1" vertex="1">
-          <mxGeometry x="7873.580000000001" y="-1477.59" width="208.31" height="101.95" as="geometry" />
+          <mxGeometry x="8007.9400000000005" y="-1411.28" width="208.31" height="101.95" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-175" target="FUbrahP81w-io_km4hip-170" edge="1">
-          <mxGeometry x="7814.449893762994" y="-1596.949092857143" as="geometry">
+          <mxGeometry x="7948.809893762994" y="-1530.639092857143" as="geometry">
             <Array as="points">
-              <mxPoint x="8440" y="-1328" />
+              <mxPoint x="8574.36" y="-1261.69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-175" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#A8DADC;strokeColor=#457B9D;strokeWidth=3;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=30;fontColor=#1D3557;container=0;" parent="1" vertex="1">
-          <mxGeometry x="8360" y="-1474.8999999999996" width="200" height="114.08" as="geometry" />
+          <mxGeometry x="8494.36" y="-1408.5899999999997" width="200" height="114.08" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-176" value="Modem 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7904.99" y="-1513.32" width="217.87" height="19.42" as="geometry" />
+          <mxGeometry x="8039.349999999999" y="-1447.01" width="217.87" height="19.42" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-177" value="Modem 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8352" y="-1516.89" width="223.04" height="16.58" as="geometry" />
+          <mxGeometry x="8486.36" y="-1450.5800000000002" width="223.04" height="16.58" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-170" target="FUbrahP81w-io_km4hip-203" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8264" y="-1005" />
+              <mxPoint x="8398.36" y="-938.69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-170" target="FUbrahP81w-io_km4hip-205" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8240" y="-1007" />
+              <mxPoint x="8374.36" y="-940.69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-180" value="CCR Mikrotik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8122.86125031185" y="-1472.3950392857143" width="198.93991683991686" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8257.22125031185" y="-1406.0850392857144" width="198.93991683991686" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-182" target="FUbrahP81w-io_km4hip-170" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8672" y="-1274" />
+              <mxPoint x="8806.36" y="-1207.69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-182" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;fontSize=30;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8602.45" y="-1438.1699999999998" width="185.87" height="143.32" as="geometry" />
+          <mxGeometry x="8736.810000000001" y="-1371.86" width="185.87" height="143.32" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-183" value="Converter FO (B)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8612.49103679834" y="-1513.3151071428572" width="165.78326403326403" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8746.85103679834" y="-1447.0051071428572" width="165.78326403326403" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-184" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="-328" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="-261.69" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-185" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="-32" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="34.31" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-186" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="264" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="330.31" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-188" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="552" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="618.31" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-189" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="848" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="914.31" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-190" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="1144" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="1210.31" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-191" value="BKK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7949.333666008316" y="-583.0026857142855" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8083.693666008316" y="-516.6926857142855" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-192" value="Kepsek" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7947.076504989605" y="-314.7415714285716" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8081.436504989605" y="-248.4315714285716" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-193" value="R.Guru" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7939.3178482328485" y="6.176046428571468" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8073.677848232848" y="72.48604642857147" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-194" value="Perpustakaan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7919.996517671519" y="276.5106571428574" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8054.356517671518" y="342.8206571428574" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-196" value="R.Meeting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7861.402525987526" y="568.0028857142859" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="7955.972525987526" y="630.2028857142858" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-197" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7912.7925259875265" y="861.2639999999999" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="7924.472525987526" y="924.6139999999998" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-198" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7912.7925259875265" y="1179.5677714285707" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="7932.232525987526" y="1223.0277714285708" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-199" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7768" y="1440" width="1088" height="278.52" as="geometry" />
+          <mxGeometry x="7902.36" y="1506.31" width="1088" height="278.52" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-200" value="BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7755.784199584199" y="1443.2175571428577" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="7890.144199584199" y="1518.3075571428576" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-201" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8244.36" y="-608" width="251.64" height="179.93" as="geometry" />
+          <mxGeometry x="8378.720000000001" y="-541.69" width="251.64" height="179.93" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-202" value="Ap BKK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8251.96" y="-415.77" width="203.64" height="33.16" as="geometry" />
+          <mxGeometry x="8386.32" y="-349.46" width="203.64" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-203" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8430.04" y="-1104" width="207.16" height="142" as="geometry" />
+          <mxGeometry x="8564.400000000001" y="-1037.69" width="207.16" height="142" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-204" value="Switch Manageable local TU &amp;amp; BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8383.995665280667" y="-857.8932285714285" width="278.5158835758836" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8518.355665280667" y="-791.5832285714284" width="278.5158835758836" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-205" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7920" y="-1107.81" width="207.88" height="142.5" as="geometry" />
+          <mxGeometry x="8054.36" y="-1041.5" width="207.88" height="142.5" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-205" target="FUbrahP81w-io_km4hip-201" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7880" y="-1000" />
-              <mxPoint x="7880" y="-504" />
+              <mxPoint x="8014.36" y="-933.69" />
+              <mxPoint x="8014.36" y="-437.69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-207" value="Switch AP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7903.13050935551" y="-940.3393821428571" width="149.20493762993763" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8037.49050935551" y="-874.029382142857" width="149.20493762993763" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-223" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8122.86" y="-868.26" width="175.73" height="160.4" as="geometry" />
+          <mxGeometry x="8257.22" y="-801.95" width="175.73" height="160.4" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-205" target="FUbrahP81w-io_km4hip-223" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8184" y="-984" />
-              <mxPoint x="8184" y="-758" />
+              <mxPoint x="8318.36" y="-917.69" />
+              <mxPoint x="8318.36" y="-691.69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-225" value="AP TU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8122.86" y="-696" width="175.87" height="33.16" as="geometry" />
+          <mxGeometry x="8257.22" y="-629.69" width="175.87" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-226" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8240" y="-328" width="208" height="192" as="geometry" />
+          <mxGeometry x="8374.36" y="-261.69" width="208" height="192" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-205" target="FUbrahP81w-io_km4hip-226" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7864" y="-1024" />
-              <mxPoint x="7864" y="-216" />
+              <mxPoint x="7998.36" y="-957.69" />
+              <mxPoint x="7998.36" y="-149.69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-228" value="Ap Kepsek" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8198.41" y="-133.08" width="275.64" height="33.16" as="geometry" />
+          <mxGeometry x="8332.77" y="-66.77000000000001" width="275.64" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-229" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8244.36" y="-20.16" width="259.06" height="199.91" as="geometry" />
+          <mxGeometry x="8378.720000000001" y="46.150000000000006" width="259.06" height="199.91" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-205" target="FUbrahP81w-io_km4hip-229" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7848" y="-1048" />
-              <mxPoint x="7848" y="80" />
+              <mxPoint x="7982.36" y="-981.69" />
+              <mxPoint x="7982.36" y="146.31" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-231" value="AP R.Guru" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8236.94" y="197.54999999999998" width="275.64" height="33.16" as="geometry" />
+          <mxGeometry x="8371.300000000001" y="263.86" width="275.64" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-232" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8432" y="272" width="184" height="176" as="geometry" />
+          <mxGeometry x="8566.36" y="338.31" width="184" height="176" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-233" value="AP Perpustakaan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8568" y="453.83" width="149.2" height="35.3" as="geometry" />
+          <mxGeometry x="8702.36" y="520.14" width="149.2" height="35.3" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-234" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8069.2" y="331.11" width="219.82" height="150.68" as="geometry" />
+          <mxGeometry x="8203.56" y="397.42" width="219.82" height="150.68" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-205" target="FUbrahP81w-io_km4hip-234" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7832" y="-1064" />
-              <mxPoint x="7832" y="359" />
+              <mxPoint x="7966.36" y="-997.69" />
+              <mxPoint x="7966.36" y="425.31" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-234" target="FUbrahP81w-io_km4hip-232" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8204.57107068607" y="363.4700964285714" />
-              <mxPoint x="8204.57107068607" y="363.4700964285714" />
+              <mxPoint x="8338.93107068607" y="429.7800964285714" />
+              <mxPoint x="8338.93107068607" y="429.7800964285714" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-237" value="Switch AP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7931.5" y="471.36" width="266.91" height="33.16" as="geometry" />
+          <mxGeometry x="8065.86" y="537.6700000000001" width="266.91" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-241" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8280" y="563.89" width="324.04" height="198.04" as="geometry" />
+          <mxGeometry x="8414.36" y="630.2" width="324.04" height="198.04" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-234" target="FUbrahP81w-io_km4hip-241" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8240" y="656" />
+              <mxPoint x="8374.36" y="722.31" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-243" value="AP R.Meeting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8531.522058212056" y="728.7774285714288" width="185.67725571725572" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8665.882058212057" y="795.0874285714287" width="185.67725571725572" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-244" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8184" y="861.26" width="222.83" height="194.74" as="geometry" />
+          <mxGeometry x="8318.36" y="927.5699999999999" width="222.83" height="194.74" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-245" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8392" y="1056" width="344.33" height="33.16" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-245" value="AP unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="8526.36" y="1122.31" width="344.33" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-246" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8152" y="1152" width="296" height="200" as="geometry" />
+          <mxGeometry x="8286.36" y="1218.31" width="296" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-247" value="AP Unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8423.84" y="1280" width="238.67" height="33.16" as="geometry" />
+          <mxGeometry x="8558.2" y="1346.31" width="238.67" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-248" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8504" y="1458.19" width="241.88" height="165.81" as="geometry" />
+          <mxGeometry x="8638.36" y="1524.5" width="241.88" height="165.81" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-203" target="FUbrahP81w-io_km4hip-248" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8832" y="-1004" />
-              <mxPoint x="8832" y="1568" />
+              <mxPoint x="8966.36" y="-937.69" />
+              <mxPoint x="8966.36" y="1634.31" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-250" value="Switch BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8509.807598752599" y="1632.9997928571433" width="278.5158835758836" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="8644.1675987526" y="1699.3097928571433" width="278.5158835758836" height="33.156642857142856" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-248" target="jC4rC06Mb-IMLuU-B1CN-3" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-248" target="jC4rC06Mb-IMLuU-B1CN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8480" y="1541" />
-              <mxPoint x="8480" y="1696" />
-              <mxPoint x="7992" y="1696" />
+              <mxPoint x="8614.36" y="1607.31" />
+              <mxPoint x="8614.36" y="1762.31" />
+              <mxPoint x="8126.36" y="1762.31" />
             </Array>
-            <mxPoint x="7873" y="1640" as="targetPoint" />
+            <mxPoint x="8007.36" y="1706.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-256" value="AP BMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7791.726345114345" y="1640.132198571429" width="111.40635343035343" height="19.893985714285716" as="geometry" />
+          <mxGeometry x="7926.086345114345" y="1706.442198571429" width="111.40635343035343" height="19.893985714285716" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-257" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="8265.56" y="1435.19" width="190.04" height="197.81" as="geometry" />
+          <mxGeometry x="8399.92" y="1501.5" width="190.04" height="197.81" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-248" target="FUbrahP81w-io_km4hip-257" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-248" target="FUbrahP81w-io_km4hip-257" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8464" y="1488" />
-              <mxPoint x="8464" y="1664" />
-              <mxPoint x="8344" y="1664" />
+              <mxPoint x="8598.36" y="1554.31" />
+              <mxPoint x="8598.36" y="1738.31" />
+              <mxPoint x="8478.36" y="1738.31" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-259" value="AP BMT Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="8083.28922037422" y="1613.1061128571425" width="191.6454532224532" height="19.893985714285716" as="geometry" />
+          <mxGeometry x="8217.64922037422" y="1679.4161128571425" width="191.6454532224532" height="19.893985714285716" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-266" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="-1606.8960857142858" width="888.5982952182954" height="371.3544" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="-1527.316085714286" width="888.5982952182954" height="371.3544" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-269" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="1251.2065285714289" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="1330.7865285714288" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-270" value="Lab DKV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="1264.4691857142857" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="6842.103601871103" y="1344.0491857142856" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-287" value="R.Control Unifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6508.60827962578" y="-1600.2647571428572" width="212.202577962578" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-287" value="R.Control Unifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6808" y="-1483.74" width="256.42" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-288" value="Gd. SMK 2nd Floor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6440.272418191268" y="-1699.734685714286" width="267.2757782744283" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="6747.242418191268" y="-1620.154685714286" width="267.2757782744283" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-289" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6959.538757796258" y="-1484.2165071428572" width="155.95222950586364" height="106.89698903516624" as="geometry" />
+          <mxGeometry x="7112" y="-1457.3300000000002" width="222.46" height="152.49" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-290" value="Switch Manageable Unifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6906.488113305613" y="-1364.8525928571428" width="278.5158835758836" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-290" value="Switch Manageable Unifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="7014.518113305613" y="-1261.692592857143" width="278.5158835758836" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-293" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="-1207.3585392857144" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="-1127.7785392857145" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-294" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="-1194.0958821428574" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-294" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6824.003601871103" y="-1114.5158821428574" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-295" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="-1194.0958821428574" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7112" y="-1114.52" width="224.14" height="162.52" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=30;startArrow=none;startFill=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-295" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-295" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7264.579963617463" y="-1424.53455" />
-              <mxPoint x="7264.579963617463" y="-1117.8356035714287" />
+              <mxPoint x="7272" y="-1304" />
+              <mxPoint x="7424" y="-1304" />
+              <mxPoint x="7424" y="-1038" />
             </Array>
+            <mxPoint x="7312" y="-1304" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-297" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="-1041.5753250000002" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-297" value="Ap unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6912" y="-954.0600000000001" width="236" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-298" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="-897.3439285714285" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="-817.7639285714284" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-299" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="-884.0812714285717" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-299" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6824.003601871103" y="-801.9512714285717" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-300" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="-884.0812714285717" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7120" y="-804.5" width="216.14" height="164.5" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-300" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-300" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7277.842624740125" y="-1426.1923821428572" />
-              <mxPoint x="7277.842624740125" y="-817.7679857142857" />
+              <mxPoint x="7440" y="-1320" />
+              <mxPoint x="7440" y="-696" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-302" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="-731.5607142857143" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-302" value="Ap unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6944.99" y="-635.9300000000001" width="232" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-303" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="-587.329317857143" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="-507.749317857143" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-304" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="-574.0666607142857" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-304" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6824.003601871103" y="-497.2566607142857" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-305" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="-574.0666607142857" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7080" y="-494.49" width="256.14" height="182.49" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-305" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-305" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7291.105285862786" y="-1426.1923821428572" />
-              <mxPoint x="7291.105285862786" y="-507.75337500000006" />
+              <mxPoint x="7456" y="-1336" />
+              <mxPoint x="7456" y="-360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-307" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="-421.54610357142866" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-307" value="Ap unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6912" y="-320.42" width="216" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-308" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="-278.9725392857143" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="-199.3925392857143" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-309" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="-265.7098821428572" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-309" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6824.003601871103" y="-186.12988214285724" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-310" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="-265.7098821428572" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7080" y="-186.13" width="256.14" height="178.13" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-310" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-310" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7304.367946985447" y="-1426.1923821428572" />
-              <mxPoint x="7304.367946985447" y="-199.3965964285715" />
+              <mxPoint x="7472" y="-1344" />
+              <mxPoint x="7472" y="-56" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-312" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="-113.18932500000011" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-312" value="Ap unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6920" y="-26.5" width="215.01" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-313" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="26.068574999999726" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="105.64857499999972" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-314" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="39.331232142857004" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-314" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6824.003601871103" y="115.631232142857" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-315" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="39.331232142857004" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7104" y="118.91" width="232.14" height="177.09" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-315" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-315" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7317.630608108108" y="-1424.53455" />
-              <mxPoint x="7317.630608108108" y="105.64451785714294" />
+              <mxPoint x="7488" y="-1352" />
+              <mxPoint x="7488" y="248" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-317" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="191.85178928571412" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-317" value="Ap unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6912" y="291.36" width="256" height="33.16" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-318" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="331.1096892857142" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="410.68968928571417" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-319" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="344.37234642857123" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-319" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6824.003601871103" y="422.2923464285712" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-320" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="344.37234642857123" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7112" y="423.95" width="224.14" height="184.05" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-320" edge="1">
+        <mxCell id="FUbrahP81w-io_km4hip-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-320" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7330.89326923077" y="-1424.53455" />
-              <mxPoint x="7330.89326923077" y="425.6061214285714" />
+              <mxPoint x="7504" y="-1360" />
+              <mxPoint x="7504" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-322" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="496.8929035714286" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-322" value="Ap&amp;nbsp;unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="6942.325795218296" y="597.7929035714286" width="185.67725571725575" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-323" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="636.1508035714282" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="715.7308035714283" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-324" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="649.4134607142855" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="6842.103601871103" y="728.9934607142856" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-325" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="649.4134607142855" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7203.511117463618" y="728.9934607142856" width="132.62661122661126" height="132.62657142857142" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-325" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7251.317302494803" y="-1424.53455" />
-              <mxPoint x="7251.317302494803" y="720.7002428571427" />
+              <mxPoint x="7558" y="-1400" />
+              <mxPoint x="7558" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-327" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="801.9340178571429" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-327" value="AP unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="7176.985795218296" y="881.5140178571429" width="185.67725571725575" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-328" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6495.345618503119" y="944.5075821428568" width="888.5982952182954" height="278.5158" as="geometry" />
+          <mxGeometry x="6802.315618503119" y="1024.0875821428567" width="888.5982952182954" height="278.5158" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-329" value="R.Kelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6535.133601871103" y="957.7702392857141" width="149.20493762993766" height="33.156642857142856" as="geometry" />
+          <mxGeometry x="6842.103601871103" y="1037.350239285714" width="149.20493762993766" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-330" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="6896.541117463617" y="957.7702392857141" width="132.62661122661126" height="132.62657142857142" as="geometry" />
+          <mxGeometry x="7203.511117463618" y="1037.350239285714" width="132.62661122661126" height="132.62657142857142" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-330" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7238.054641372142" y="-1426.1923821428572" />
-              <mxPoint x="7238.054641372142" y="1029.0570214285717" />
+              <mxPoint x="7545" y="-1392" />
+              <mxPoint x="7545" y="1109" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-332" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="6870.015795218295" y="1110.2907964285714" width="185.67725571725575" height="33.156642857142856" as="geometry" />
+        <mxCell id="FUbrahP81w-io_km4hip-332" value="AP unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="7176.985795218296" y="1189.8707964285713" width="185.67725571725575" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-341" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="7237.817808137808" y="1264.4691857142857" width="104.20662310662313" height="90.62815714285715" as="geometry" />
+          <mxGeometry x="7544.7878081378085" y="1344.0491857142856" width="104.20662310662313" height="90.62815714285715" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-341" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7211.529319126819" y="-1426.1923821428572" />
-              <mxPoint x="7211.529319126819" y="1325.808975" />
+              <mxPoint x="7518" y="-1381" />
+              <mxPoint x="7518" y="1405" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-343" value="AP Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="7216.976483516484" y="1368.6915664285716" width="145.88927234927237" height="22.657039285714287" as="geometry" />
+          <mxGeometry x="7523.9464835164845" y="1448.2715664285715" width="145.88927234927237" height="22.657039285714287" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-356" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="5184" y="-1712.997342857143" width="1034.4875675675678" height="1138.9306821428572" as="geometry" />
@@ -933,7 +935,7 @@
         <mxCell id="FUbrahP81w-io_km4hip-364" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="5674.718461538461" y="-1594.7337142857143" width="132.62661122661126" height="132.62657142857142" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-365" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="FUbrahP81w-io_km4hip-365" value="AP unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="5648.193139293139" y="-1442.2131571428572" width="185.67725571725575" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-366" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;fontSize=30;" parent="1" vertex="1">
@@ -945,7 +947,7 @@
         <mxCell id="FUbrahP81w-io_km4hip-368" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="5674.718461538461" y="-1284.7191035714286" width="132.62661122661126" height="132.62657142857142" as="geometry" />
         </mxCell>
-        <mxCell id="FUbrahP81w-io_km4hip-369" value="AP Uinifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="FUbrahP81w-io_km4hip-369" value="AP unifi Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#1D3557;container=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="5648.193139293139" y="-1132.1985464285715" width="185.67725571725575" height="33.156642857142856" as="geometry" />
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-371" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;dashed=1;strokeWidth=7;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" source="FUbrahP81w-io_km4hip-149" target="FUbrahP81w-io_km4hip-182" edge="1">
@@ -969,30 +971,24 @@
         <mxCell id="FUbrahP81w-io_km4hip-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;fontSize=30;" parent="1" source="FUbrahP81w-io_km4hip-170" target="FUbrahP81w-io_km4hip-289" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7850" y="-1264" />
-              <mxPoint x="7850" y="-1541" />
-              <mxPoint x="7372" y="-1541" />
-              <mxPoint x="7372" y="-1448" />
+              <mxPoint x="7872" y="-1176" />
+              <mxPoint x="7872" y="-1448" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-364" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7213.187151767152" y="-1426.192382142857" />
-              <mxPoint x="7213.187151767152" y="-1315.1176285714287" />
-              <mxPoint x="6828.5699792099795" y="-1315.1176285714287" />
-              <mxPoint x="6828.5699792099795" y="-1102.9151142857143" />
+              <mxPoint x="6184" y="-1400" />
+              <mxPoint x="6184" y="-1528" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-378" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=3;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-368" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7226.449812889813" y="-1421.2188857142858" />
-              <mxPoint x="7226.449812889813" y="-1301.8549714285714" />
-              <mxPoint x="6841.832640332641" y="-1301.8549714285714" />
-              <mxPoint x="6841.832640332641" y="-819.4258178571426" />
+              <mxPoint x="6842" y="-1376" />
+              <mxPoint x="6842" y="-1192" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2028,21 +2024,21 @@
         <mxCell id="FUbrahP81w-io_km4hip-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-246" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7808" y="-1426" />
-              <mxPoint x="7808" y="1272" />
+              <mxPoint x="7816" y="-1416" />
+              <mxPoint x="7816" y="1376" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FUbrahP81w-io_km4hip-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=7;" parent="1" source="FUbrahP81w-io_km4hip-289" target="FUbrahP81w-io_km4hip-244" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7784" y="-1426" />
-              <mxPoint x="7784" y="928" />
+              <mxPoint x="7856" y="-1424" />
+              <mxPoint x="7856" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jC4rC06Mb-IMLuU-B1CN-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;container=0;strokeWidth=3;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="7885" y="1452" width="190.04" height="197.81" as="geometry" />
+          <mxGeometry x="8019.36" y="1518.31" width="190.04" height="197.81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
